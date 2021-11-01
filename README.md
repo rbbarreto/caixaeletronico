@@ -2,7 +2,7 @@
 Fazer um programa que simule saque de um caixa eletrônico e sempre retorne o menor numero de notas possível.
 
 # Especificações Funcionais
-** As notas válidas são pode ser 100, 50, 20, 10, 5
+*** As notas válidas são pode ser 100, 50, 20, 10, 5
 As notas são infinitas
 Todos os saques devem ser guardados em uma lista de Saques
 O Saque deve conter a data e hora de quando foi realizado e o valor
